@@ -10,6 +10,10 @@ Develop a Python-based API that allows the company to ingest, process, and store
 
 _Note_: External libraries may be used for this assignment.
 
+## Setting up the Database
+
+To create the database that is to be used for this assignment, open your terminal at this directory and run `./db/init/init_db.sh`. This will create the file `./db/ecommerce.db`. This is what you should use to query data.
+
 ## Solution Requirements
 
 The core requirements must be fulfilled by solutions from all candidates. Senior Data Engineer candidates should complete as many of the stretch requirements as possible. Core Data engineer candidates are welcome to complete the stretch requirements as well, but it is not expected.

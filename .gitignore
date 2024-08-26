@@ -163,3 +163,8 @@ cython_debug/
 
 # Mac specific
 .DS_Store
+
+# Database files
+**/*.sqlite
+**/*.sqlite3
+**/*.db
